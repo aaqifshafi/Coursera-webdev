@@ -1,6 +1,6 @@
 # Coursera-webdev Assignments
 
-In this repository I have coded my solutions for coding assignments for HTML, CSS, and Javascript for Web Developers course offered by Johns Hopkins University on Coursera.
+In this repository I have coded my solutions for coding assignments for [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course offered by Johns Hopkins University on Coursera.
 
 **Solution Links:**
 
