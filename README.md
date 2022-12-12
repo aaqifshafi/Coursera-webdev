@@ -4,5 +4,5 @@ In this repository I have coded my solutions for coding assignments for HTML, CS
 
 ### Solution Links:
 
-module2-solution
-module3-solution
+1. module2-solution
+2. module3-solution
