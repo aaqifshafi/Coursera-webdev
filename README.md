@@ -4,5 +4,5 @@ In this repository I have coded my solutions for coding assignments for HTML, CS
 
 ### Solution Links:
 
-1. module2-solution
-2. module3-solution
+[module2-solution](https://www.google.com)<br>
+[module3-solution]()
