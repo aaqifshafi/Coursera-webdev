@@ -5,3 +5,4 @@ In this repository I have coded my solutions for coding assignments for [HTML, C
 **Solution Links:**
 
 [module2-solution](https://aaqifshafi.github.io/Coursera-webdev/module2-solution/index.html)
+[module3-solution](https://aaqifshafi.github.io/Coursera-webdev/module3-solution/index.html)
