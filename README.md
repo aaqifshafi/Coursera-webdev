@@ -4,5 +4,5 @@ In this repository I have coded my solutions for coding assignments for HTML, CS
 
 ### Solution Links:
 
-[module2-solution](https://www.google.com)<br>
-[module3-solution]()
+[module2-solution](https://aaqifshafi.github.io/Coursera-webdev/module2-solution/)<br>
+[module3-solution](https://aaqifshafi.github.io/Coursera-webdev/module3-solution/)
